@@ -46,8 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Missile.cs" />
      <Compile Include="Assets\MissileSpawner.cs" />
      <Compile Include="Assets\PlayerControls.cs" />
+     <Compile Include="Assets\WorldReference.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
