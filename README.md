@@ -1,2 +1,2 @@
 # Asteroids
-Asteroids game doodle in javascript
+Asteroids game doodle in unity
